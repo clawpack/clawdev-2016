@@ -1,3 +1,3 @@
 -This folder is to contain the presentation files for lightning talks.  
 
--The filename(s) should include the speaker's last name
+-The filename(s) should include the speaker's last name and perhaps the title of the talk
